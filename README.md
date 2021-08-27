@@ -1,2 +1,2 @@
-# php-simple-ftp-upload-download
-Simple example of using FTP connections in PHP.
+# Simple example of using FTP connections in PHP.
+Allows you to upload and download files from an FTP server.
